@@ -1,0 +1,14 @@
+C:\Users\Andrii\Source\Repos\M4_IEnumerator\M4_IEnumerator\bin\Debug\M4_IEnumerator.exe.config
+C:\Users\Andrii\Source\Repos\M4_IEnumerator\M4_IEnumerator\bin\Debug\M4_IEnumerator.exe
+C:\Users\Andrii\Source\Repos\M4_IEnumerator\M4_IEnumerator\bin\Debug\M4_IEnumerator.pdb
+C:\Users\Andrii\Source\Repos\M4_IEnumerator\M4_IEnumerator\obj\Debug\M4_IEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\Andrii\Source\Repos\M4_IEnumerator\M4_IEnumerator\obj\Debug\M4_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\Source\Repos\M4_IEnumerator\M4_IEnumerator\obj\Debug\M4_IEnumerator.exe
+C:\Users\Andrii\Source\Repos\M4_IEnumerator\M4_IEnumerator\obj\Debug\M4_IEnumerator.pdb
+C:\Users\Math\source\repos\M4_IEnumerator\M4_IEnumerator\bin\Debug\M4_IEnumerator.exe.config
+C:\Users\Math\source\repos\M4_IEnumerator\M4_IEnumerator\bin\Debug\M4_IEnumerator.exe
+C:\Users\Math\source\repos\M4_IEnumerator\M4_IEnumerator\bin\Debug\M4_IEnumerator.pdb
+C:\Users\Math\source\repos\M4_IEnumerator\M4_IEnumerator\obj\Debug\M4_IEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\Math\source\repos\M4_IEnumerator\M4_IEnumerator\obj\Debug\M4_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Math\source\repos\M4_IEnumerator\M4_IEnumerator\obj\Debug\M4_IEnumerator.exe
+C:\Users\Math\source\repos\M4_IEnumerator\M4_IEnumerator\obj\Debug\M4_IEnumerator.pdb
